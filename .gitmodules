@@ -1,0 +1,6 @@
+[submodule "frontend_hotel"]
+	path = frontend_hotel
+	url = https://github.com/afyar08/frontend_hotel.git
+[submodule "backend_hotel"]
+	path = backend_hotel
+	url = https://github.com/afyar08/backend_hotel.git
