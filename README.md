@@ -14,8 +14,8 @@ Cara menjalankan aplikasi:
 4. Run bisa dilakukan dengan emulator/chrome/media lain
 5. Ada 2 role pada aplikasi
    a. Jika masuk ke frontdesk, login dengan:
-      - Username: linda
-      -password: 12345678
+         - Username: linda
+         - password: 12345678
    b. Jika masuk ke user, login gunakan email pengguna
    c. Jika saat login ke user belum bisa diakses, maka ubah class yang dipanggil pada "splash_screen.dart" pada line 33, ubah "Home1()" dengan "CustomerDashboard()"
-6. Aplikasi bisa diakses
+7. Aplikasi bisa diakses
