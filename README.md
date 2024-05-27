@@ -13,12 +13,9 @@ Cara menjalankan aplikasi:
 3. Selanjutnya, run pada frontend nya dengan "klik" icon play pada main.dart, selain itu bisa menggunakan perintah "flutter run" pada terminal folder frontend
 4. Run bisa dilakukan dengan emulator/chrome/media lain
 5. Ada 2 role pada aplikasi
-   
-a. Jika masuk ke frontdesk, login dengan:
+   a. Jika masuk ke frontdesk, login dengan:
          - Username: linda
          - password: 12345678
-   
-b. Jika masuk ke user, login gunakan email pengguna
-   
-c. Jika saat login ke user belum bisa diakses, maka ubah class yang dipanggil pada "splash_screen.dart" pada line 33, ubah "Home1()" dengan "CustomerDashboard()"
+   b. Jika masuk ke user, login gunakan email pengguna
+   c. Jika saat login ke user belum bisa diakses, maka ubah class yang dipanggil pada "splash_screen.dart" pada line 33, ubah "Home1()" dengan "CustomerDashboard()"
 7. Aplikasi bisa diakses
