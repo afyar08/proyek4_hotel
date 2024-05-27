@@ -1,7 +1,9 @@
 # proyek4_hotel
 
 Nama Kelompok: Switzal
+
 Ketua: Afyar Siti Ababil (221511037)
+
 Anggota: 1. Alya Angraini (221511042)
          2. Linda Santika (221511052)
 
