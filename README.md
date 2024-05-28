@@ -1,6 +1,6 @@
 # proyek4_hotel
 
-Nama Kelompok: Switzal
+Nama Kelompok: ZwitSal
 
 Ketua: Afyar Siti Ababil (221511037)
 
@@ -12,10 +12,12 @@ Cara menjalankan aplikasi:
 2. Jalankan terlebih dahulu back-end nya dengan perintah "php artisan serve"
 3. Selanjutnya, run pada frontend nya dengan "klik" icon play pada main.dart, selain itu bisa menggunakan perintah "flutter run" pada terminal folder frontend
 4. Run bisa dilakukan dengan emulator/chrome/media lain
-5. Ada 2 role pada aplikasi
-   a. Jika masuk ke frontdesk, login dengan:
+5. Ada 2 role pada aplikasi, Jika masuk ke frontdesk,
+   a. login dengan:
          - Username: linda
          - password: 12345678
-   b. Jika masuk ke user, login gunakan email pengguna
-   c. Jika saat login ke user belum bisa diakses, maka ubah class yang dipanggil pada "splash_screen.dart" pada line 33, ubah "Home1()" dengan "CustomerDashboard()"
-7. Aplikasi bisa diakses
+   b. setelah login, akan langsung muncul dashboard frontdesk dengan tampilan kalendar dan list room type yang ada di hotel.
+   c. menu lain dapat dipilih pada sidebar yang dapat diakses dengan klik strip 3 di pojok kiri atas tampilan.
+7. Jika masuk ke Customer, lakukan registrasi terlebih dahulu dengan memasukan Nama, Email, No telp, dan password.
+8. lakukan login setelah registrasi berhasil dengan cara memasukan email dan password yang telah didaftarkan sebelumnya.
+
