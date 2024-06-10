@@ -21,3 +21,19 @@ Cara menjalankan aplikasi:
 7. Jika masuk ke Customer, lakukan registrasi terlebih dahulu dengan memasukan Nama, Email, No telp, dan password.
 8. lakukan login setelah registrasi berhasil dengan cara memasukan email dan password yang telah didaftarkan sebelumnya.
 
+List menu pada tampilan frontdesk :
+1. Dashboard
+   Tampilan berisi kalendar untuk membantu frontdesk dalam mengetahui dengan pasti tanggal.  serta ada list room tipe serta detail dari room tipe yang dipilih.
+3. New booking (individu atau group)
+   Tampilan untuk melakukan reservasi yang dikategorikan sebagai individual booking atau group/company booking
+5. Guest List
+   memperlihatkan daftar tamu yang ada apa tanggal tertentu sesuai dengan tanggal yang dipilih
+7. In house Guest
+   Menampilkan list dan jumlah tamu yang berstatus check in atau yang statusnya berada di dalam hotel
+9. Reserved Status
+    Menampilkan daftar tamu yang sudah reservasi ataupun yang sudah check in, ini membantu frontdesk dalam mendata ruangan yang terbooking. disini juga ststusnya bisa dirubah antara menjadi reserved, check-in, check-out, atau cancel reserved.
+11. Available Room
+    menampilkan list ruangan yang tersedia atau yang kosong, dengan status ruangan apakah dirty, clean, atau inspected.
+13. Housekeeping
+    ini akan berfungsi agar housekeeping tidak bingung mana ruangan yang harus dibersihkan, dan bagaimana status ruangan yang ada, yang mana akan ada status clean, dirty, pickup, inspected, atau out of order.
+    
